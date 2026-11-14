@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid black;
+    text-align: center;
+    position: absolute;
+}
+
+#qd_1 {
+    background-color: aquamarine;
+    top: 0;
+}
+
+#qd_2 {
+    background-color: blueviolet;
+    right: 0;
+    top: 0;
+}
+
+#qd_3 {
+    background-color: chartreuse;
+    bottom: 0;
+    right: 0;
+}
+
+#qd_4 {
+    background-color: cornflowerblue;
+    bottom: 0;
+}

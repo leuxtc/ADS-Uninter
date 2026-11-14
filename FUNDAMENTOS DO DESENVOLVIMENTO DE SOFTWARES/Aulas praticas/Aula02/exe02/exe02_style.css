@@ -1,0 +1,18 @@
+.imagem {
+    width: 200px;
+    height: 200px;
+    background: no-repeat url(https://www.bonsfluidos.com.br/wp-content/uploads/2026/01/CAPA-BONS-FLUIDOS-2026-01-29T124219.250.jpg);
+    background-size: contain;
+    display: block;
+    transition: .3s;
+}
+
+.imagem:hover {
+    transition: .6s;
+    background-position: 0 20px;
+}
+
+.imagem:active {
+    transition: .1s;
+    background-position: 20px 20px;
+}

@@ -1,0 +1,23 @@
+.lista {
+    list-style: square;
+    width: fit-content;
+    font-size: 30px;
+}
+
+.lista li {
+    transition: .1s;
+}
+
+.lista li:nth-child(odd):hover {
+    transition: .3s;
+    background-color: bisque;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.lista li:nth-child(even):hover {
+    transition: .3s;
+    background-color: cadetblue;
+    font-size: 35px;
+    cursor: pointer;
+}

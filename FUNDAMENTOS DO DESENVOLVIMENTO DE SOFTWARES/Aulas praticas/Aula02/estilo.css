@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(44, 5, 66);
+    background-image: url(https://img.magnific.com/vetores-gratis/antecedentes-de-design-de-padroes-organicos-abstratos_1048-19286.jpg?semt=ais_hybrid&w=740&q=80);
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(42, 106, 165);
+    font-size: 30px;
+}
+
+.titulo_principal {
+    color: #37cf18;
+    font-size: 50px;
+    text-align: center;
+}
+
+.fundo {
+    background-color: #c7c7c7;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #e4e4e4;
+}
+
+ul {
+    padding: 10px;
+    text-align: center;
+}
+
+.lista li {
+    color: rgb(42, 106, 165);
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+}
+
+p {
+    padding: 10px;
+}
+
+p#destaque {
+    color: rgb(42, 106, 165);
+}

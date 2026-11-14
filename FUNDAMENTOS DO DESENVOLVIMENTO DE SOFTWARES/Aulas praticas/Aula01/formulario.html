@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leo Hamburguers</title>
+</head>
+<body>
+    <h1>Bem-vindo a Leo Hamburguers!</h1>
+    <form action="teste.jsp" method="get">
+        <span>Nome: </span><input type="text" name="nome"><br>
+        <span>Email: </span><input type="email" name="email"><br>
+        
+        <span>Tamanho: </span>
+        <input type="radio" name="tamanho" value="g" checked><span>Grande</span>
+        <input type="radio" name="tamanho" value="m"><span>Médio</span>
+        <input type="radio" name="tamanho" value="p"><span>Pequeno</span><br>
+        
+        <span>Sabor: </span>
+        <select name="sabor">
+            <option value="Calabresa">Calabresa</option>
+            <option value="Mussarela">Mussarela</option>
+            <option value="Margueritta">Margueritta</option>
+        </select><br>
+        
+        <span>Adicionais: </span>
+        <input type="checkbox" name="borda" value="sim"><span>Borda recheada</span>
+        <input type="checkbox" name="queijo" value="sim"><span>Queijo extra</span><br>
+        
+        <span>Data entrega: </span><input type="date" name="dataEntrega"><br><br>
+        <span>Avalie aqui: </span><br><textarea name="mensagem" rows="5" cols="40" maxlength="10px"></textarea><br>
+
+        <input type="submit">
+    </form>
+</body>
+</html>
