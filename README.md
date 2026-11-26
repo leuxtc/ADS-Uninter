@@ -15,5 +15,5 @@ conceitos estudados na faculdade
 
 ## Práticas
 
-- <a href="https://github.com/leuxtc/ADS-Uninter/tree/main/FUNDAMENTOS%20DO%20DESENVOLVIMENTO%20DE%20SOFTWARES/Aulas%20praticas/Projetos">Pasta dos projetos</a>
+📁 <a href="https://github.com/leuxtc/ADS-Uninter/tree/main/FUNDAMENTOS%20DO%20DESENVOLVIMENTO%20DE%20SOFTWARES/Aulas%20praticas/Projetos">Pasta dos projetos</a>
 
