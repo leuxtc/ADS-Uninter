@@ -13,5 +13,7 @@ da Uninter**
 Registrar minha evolução na programação e praticar os
 conceitos estudados na faculdade
 
-## Organização
-No momento o repositório está organizado em **aulas** 
+## Práticas
+
+- <a href="https://github.com/leuxtc/ADS-Uninter/tree/main/FUNDAMENTOS%20DO%20DESENVOLVIMENTO%20DE%20SOFTWARES/Aulas%20praticas/Projetos">Pasta dos projetos</a>
+
